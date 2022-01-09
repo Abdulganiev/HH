@@ -1,0 +1,9 @@
+*.pdf
+*.bat
+*.csv
+*.png
+*.ppt*
+.ipynb_checkpoints/
+data/
+docs/
+Untitled*.ipynb
